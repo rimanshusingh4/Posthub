@@ -69,3 +69,9 @@ body {
     gap: 1rem;
     align-items: start;
   }
+  .form{
+    margin-top: 2rem;
+  }
+  .form, input{
+    gap: 10px;
+  }
